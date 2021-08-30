@@ -1,0 +1,25 @@
+.topContainer{
+
+    width: 900px;
+    height:400px;
+    position: center;
+    overflow: hidden;
+    margin: 30px;
+    top:10px;
+}
+
+.topLeft{
+    width: 300px;
+    float: left;
+    position:relative;
+    padding: 10px;
+    top:10px;
+}
+
+.topRight{
+    width:600px;
+    float:right;
+    position:relative;
+    padding:10px;
+    top:10px;
+}
