@@ -1,7 +1,7 @@
 .topContainer{
 
     width: 900px;
-    height:400px;
+    height:300px;
     position: center;
     overflow: hidden;
     margin: 30px;
@@ -9,7 +9,7 @@
 }
 
 .topLeft{
-    width: 300px;
+    width: 0px;
     float: left;
     position:relative;
     padding: 10px;
