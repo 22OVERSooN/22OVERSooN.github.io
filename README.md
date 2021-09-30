@@ -1,1 +1,3 @@
-# 22OVERSooN.github.io
+# Personal Brand Statement
+
+Data Analyst, with retail & medical industry experience, combined with 3+ years of experience in sales and digital marketing. Skilled in Python, Pandas, SQL, and data visualization tools such as HTML, CSS, JavaScript, Tableau, Power Bi, R and D3.js. In a short period of time, I was able to learn multiple developed multiple research and analysis project websites and custom-built data scraping tools.
